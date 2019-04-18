@@ -28,6 +28,7 @@ header {
 
 h1 {
   margin: 0 0 20px 0;
+  text-align: center;
 }
 
 nav a {
@@ -52,13 +53,14 @@ h3 {
   text-transform: uppercase;
   letter-spacing: 4px;
   margin-bottom: 30px;
+  text-align: center;
 }
 
 /* h2 padding can be used to organise text by maniplating the space of the element possibly margin  can do so too */
 h2 {
   font-size: 34px;
   margin-left: 80px;
-  margin-right: 80px
+  margin-right: 80px text-align: center;
 }
 
 .container {
